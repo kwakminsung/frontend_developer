@@ -34,13 +34,13 @@ input[type="text"]{
 }
 .clear{
   grid-column:span 3;
-  background-color: red;
+  background-color: orange;
 }
 .oprator{
-  background-color:#c47d13;
+  background-color:#c9c369;
 }
 .green{
-  background-color:#11bcaa;
+  background-color:#50bb8b;
 }
 .result{
   grid-column:span 2;
