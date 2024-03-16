@@ -1,6 +1,6 @@
 body{
   height:100vh;
-  background:radial-gradient(ellipse at bottom, #1b3535 0%, red 100%);
+  background:radial-gradient(ellipse at bottom, #668484 0%, rgb(139, 94, 94) 100%);
   overflow:hidden;
 }
 .snow{
